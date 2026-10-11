@@ -82,7 +82,7 @@ Review usability and refine.
 
 ---
 
-## ✳ Key Highlights
+## Key Highlights
 
 - User-centered design approach
 - Clear visual hierarchy and layout
