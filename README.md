@@ -4,7 +4,7 @@
 
 <br/>
 
-# ✦ Your Project Name
+# PRAKASH A
 
 **Designing better digital experiences through thoughtful UI/UX.**
 
@@ -22,8 +22,7 @@
 
 ## ✦ Overview
 
-A short introduction to the project, its purpose, and the user
-experience problem it aims to solve.
+
 
 ## ◈ Design Preview
 
